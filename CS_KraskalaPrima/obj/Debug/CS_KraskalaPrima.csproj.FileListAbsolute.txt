@@ -1,0 +1,6 @@
+C:\Users\zheny\source\repos\CS_KraskalaPrima\CS_KraskalaPrima\bin\Debug\CS_KraskalaPrima.exe.config
+C:\Users\zheny\source\repos\CS_KraskalaPrima\CS_KraskalaPrima\bin\Debug\CS_KraskalaPrima.exe
+C:\Users\zheny\source\repos\CS_KraskalaPrima\CS_KraskalaPrima\bin\Debug\CS_KraskalaPrima.pdb
+C:\Users\zheny\source\repos\CS_KraskalaPrima\CS_KraskalaPrima\obj\Debug\CS_KraskalaPrima.csprojAssemblyReference.cache
+C:\Users\zheny\source\repos\CS_KraskalaPrima\CS_KraskalaPrima\obj\Debug\CS_KraskalaPrima.exe
+C:\Users\zheny\source\repos\CS_KraskalaPrima\CS_KraskalaPrima\obj\Debug\CS_KraskalaPrima.pdb
